@@ -26,6 +26,5 @@ succeed because the key has been re-replicated again at three nodes.
 	$ chmod +x KVStoreGrader.sh
 	$ ./KVStoreGrader.sh
 ```
-# Result
-*	Points achieved: 90 out of 90 [100%]
+
 	
